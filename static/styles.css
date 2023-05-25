@@ -1,0 +1,14 @@
+/* styles.css */
+.button {
+  background-color: #4CAF50; /* Color de fondo */
+  border: none; /* Sin borde */
+  color: white; /* Color del texto */
+  padding: 10px 20px; /* Espaciado interno (alto x ancho) */
+  text-align: center; /* Alineación del texto */
+  text-decoration: none; /* Sin decoración de texto */
+  display: inline-block; /* Mostrar como elemento en línea */
+  font-size: 16px; /* Tamaño de fuente */
+  margin: 4px 2px; /* Márgenes (superior/inferior x izquierda/derecha) */
+  cursor: pointer; /* Cambiar el cursor al pasar por encima */
+  border-radius: 4px; /* Radio de borde */
+}
